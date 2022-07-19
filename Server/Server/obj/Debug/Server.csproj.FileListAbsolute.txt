@@ -1,0 +1,62 @@
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Debug\Server.exe.config
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Debug\Server.exe
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Debug\Server.pdb
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.exe
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.pdb
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Debug\Server.exe.config
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Debug\Server.exe
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Debug\Server.pdb
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.Form1.resources
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.exe
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Debug\Server.pdb
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\bin\Debug\Server.exe.config
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\bin\Debug\Server.exe
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\bin\Debug\Server.pdb
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.exe
+C:\Users\qorcialwolf\Desktop\umutonder-Onder-Umut-Sahin-Step1\Server\Server\obj\Debug\Server.pdb
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.exe.config
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.exe
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.pdb
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.Form1.resources
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.exe
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.pdb
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.exe.config
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.exe
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.pdb
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.exe
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.pdb
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.exe.config
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.exe
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\bin\Debug\Server.pdb
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.exe
+C:\Users\umuts\OneDrive - sabanciuniv.edu\Dersler\zOld\6th\CS408\Team Project\Phase II\Server\Server\obj\Debug\Server.pdb

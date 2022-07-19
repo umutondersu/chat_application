@@ -1,0 +1,11 @@
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Release\Server.exe.config
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Release\Server.exe
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\bin\Release\Server.pdb
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.csproj.AssemblyReference.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.Form1.resources
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.Properties.Resources.resources
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.csproj.GenerateResource.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.exe
+D:\Share\Cloud\OneDrive - sabanciuniv.edu\Dersler\CS408\Team Project\Phase I\Server\Server\obj\Release\Server.pdb
